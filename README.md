@@ -8,7 +8,7 @@ Currently studying at **Polaris School of Technology**, focused on real-world co
 Exploring:
 - Java, JavaScript, MERN Stack
 - Open Source, DSA, Firebase, Supabase
-- Tailwind CSS, Express.js, and beyond 🚀
+- Tailwind CSS 🚀
 
 ---
 
