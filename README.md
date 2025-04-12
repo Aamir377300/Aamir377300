@@ -1,3 +1,6 @@
+## 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-username/)  [![LeetCode](https://img.shields.io/badge/LeetCode-%23007ACC.svg?style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.com/your-username/)  [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aamir377300)  [![Portfolio](https://img.shields.io/badge/Portfolio-%23E34F26.svg?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://your-portfolio-link.com)
 
 <img src="banner_github.png" alt="GitHub Banner" width="100%" />
 
