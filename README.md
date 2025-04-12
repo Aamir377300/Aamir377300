@@ -1,6 +1,6 @@
 <img src="banner_github.png" alt="GitHub Banner" width="100%" />
 
-## 👋 Hi, I'm Aamir
+## 👋 About Me
 
 I'm a curious and motivated developer who loves building and learning.  
 Currently studying at **Polaris School of Technology**, focused on real-world coding.
