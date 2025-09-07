@@ -6,9 +6,9 @@ I'm a curious and motivated developer who loves building and learning.
 Currently studying at **Polaris School of Technology**, focused on real-world coding.
 
 Exploring:
-- Java, JavaScript, MERN Stack, python
+- Java, JavaScript, MERN Stack, Python
 - Open Source, DSA, Firebase, Supabase
-- Docker, Kubernates 
+- Docker, Kubernetes 
 
 ---
 
@@ -24,10 +24,18 @@ Exploring:
 
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) 
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) 
-![MERN](https://img.shields.io/badge/MERN%20Stack-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)  ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+![MERN](https://img.shields.io/badge/MERN%20Stack-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)  
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+---
+
+## 🌐 Portfolio  
+
+Check out my work here: 👉 [**My Portfolio Website**](https://portfolio-brown-ten-83.vercel.app/)
+
 ---
 
 ## 📈 GitHub Activity
@@ -46,7 +54,11 @@ Exploring:
   <img alt="github-snake" src="https://raw.githubusercontent.com/Aamir377300/Aamir377300/output/github-snake.svg" />
 </picture>
 
+---
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aamir-belal-khan-497b92321/)  [![LeetCode](https://img.shields.io/badge/LeetCode-%23007ACC.svg?style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.com/u/AamirBelal/)  [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aamir377300)  [![Portfolio](https://img.shields.io/badge/Portfolio-%23E34F26.svg?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://portfolio-brown-ten-83.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aamir-belal-khan-497b92321/)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23007ACC.svg?style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.com/u/AamirBelal/)  
+[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aamir377300)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23E34F26.svg?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://portfolio-brown-ten-83.vercel.app/)  
