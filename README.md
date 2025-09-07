@@ -10,7 +10,6 @@ Exploring:
 - Open Source, DSA, Firebase, Supabase
 - Docker, Kubernetes
 
-## Portfolio  
  [**My Portfolio Website**](https://portfolio-brown-ten-83.vercel.app/)
 
 ---
