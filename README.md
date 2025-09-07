@@ -8,7 +8,12 @@ Currently studying at **Polaris School of Technology**, focused on real-world co
 Exploring:
 - Java, JavaScript, MERN Stack, Python
 - Open Source, DSA, Firebase, Supabase
-- Docker, Kubernetes 
+- Docker, Kubernetes
+
+## Portfolio  
+ [**My Portfolio Website**](https://portfolio-brown-ten-83.vercel.app/)
+
+---
 
 ---
 
@@ -32,11 +37,7 @@ Exploring:
 
 ---
 
-## 🌐 Portfolio  
 
-Check out my work here: 👉 [**My Portfolio Website**](https://portfolio-brown-ten-83.vercel.app/)
-
----
 
 ## 📈 GitHub Activity
 
