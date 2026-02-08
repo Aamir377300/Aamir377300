@@ -20,6 +20,8 @@ Exploring:
 
   <img src="hacktoberfest.png" alt="Hacktoberfest Badge" width="150" />
   <img src="TreeNation_hacktoberfest.png" alt="TreeNation Hacktoberfest" width="150" />
+  <img src="leetcode_50day.png" alt="leetcode_50day" width="150" />
+  <img src="leetcode_Dec.png" alt="leetcode_Dec" width="150" />
 
 </div>
 
