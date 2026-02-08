@@ -6,9 +6,10 @@ I'm a curious and motivated developer who loves building and learning.
 Currently studying at **Polaris School of Technology**, focused on real-world coding.
 
 Exploring:
-- Java, JavaScript, MERN Stack, Python  
-- Open Source, DSA, Firebase, Supabase  
-- Docker, Kubernetes  
+
+- Java, JavaScript, MERN Stack, Python
+- Open Source, DSA, Firebase, Supabase
+- Docker, Kubernetes
 
 🎯 [**My Portfolio Website**](https://portfolio-brown-ten-83.vercel.app/)
 
@@ -20,6 +21,9 @@ Exploring:
 
   <img src="hacktoberfest.png" alt="Hacktoberfest Badge" width="150" />
   <img src="TreeNation_hacktoberfest.png" alt="TreeNation Hacktoberfest" width="150" />
+
+  <br/><br/>
+
   <img src="leetcode_50day.png" alt="leetcode_50day" width="150" />
   <img src="leetcode_Dec.png" alt="leetcode_Dec" width="150" />
 
