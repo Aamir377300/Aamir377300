@@ -57,7 +57,7 @@ Exploring:
 
 <div align="center">
 
-![Aamir's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aamir377300&show_icons=true&theme=radical)
+![Aamir's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aamir377300&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=86400)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Aamir377300&theme=radical)](https://git.io/streak-stats)
 
