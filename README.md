@@ -89,3 +89,17 @@ Exploring:
 </p>
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aamir377300&theme=github-dark)
+
+
+---
+
+## 🐍 GitHub Snake (Contribution Graph)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" 
+          srcset="https://raw.githubusercontent.com/Aamir377300/Aamir377300/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" 
+          srcset="https://raw.githubusercontent.com/Aamir377300/Aamir377300/output/github-snake.svg" />
+  <img alt="github-snake" 
+       src="https://raw.githubusercontent.com/Aamir377300/Aamir377300/output/github-snake.svg" />
+</picture>
