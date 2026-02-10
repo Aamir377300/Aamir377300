@@ -57,14 +57,13 @@ Exploring:
 
 <div align="center">
 
-![Aamir's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aamir377300&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=86400)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Aamir377300&theme=radical)](https://git.io/streak-stats)
 
 </div>
 
 ---
-
+## 📈 Contribution graph
 
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aamir377300&theme=github-dark)
@@ -74,7 +73,7 @@ Exploring:
 <p align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aamir-belal-khan-497b92321/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23007ACC.svg?style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.com/u/AamirBelal/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23007ACC.svg?style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.com/u/aamirBKhan/)
 [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aamir377300)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23E34F26.svg?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://portfolio-brown-ten-83.vercel.app/)
 
