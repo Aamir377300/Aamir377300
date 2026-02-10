@@ -84,4 +84,8 @@ Exploring:
 [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aamir377300)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23E34F26.svg?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://portfolio-brown-ten-83.vercel.app/)
 
+
+
 </p>
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aamir377300&theme=github-dark)
