@@ -3,7 +3,7 @@
 ## 👋 About Me
 
 I'm a curious and motivated developer who loves building and learning.  
-Currently studying at **Polaris School of Technology**, focused on real-world coding.
+Currently studying at **MSU**, focused on real-world coding.
 
 Exploring:
 
