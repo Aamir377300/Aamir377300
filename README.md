@@ -1,5 +1,16 @@
-<img src="banner_github.png" alt="GitHub Banner" width="100%" />
+<!-- Profile README for Aamir -->
+[![An image of @Aamir377300's Holopin badges, which is a link to view their full Holopin profile](Assests/hologin.png)](https://www.holopin.io/@Aamir377300#badges)
 
+<!-- Animated typing header -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=520&lines=Hi+there%2C+I'm+Aamir!;Full-stack+Web+Developer;MERN+%7C+Java+%7C+Python" alt="Typing SVG" />
+</h1>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Aamir377300&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+
+<!-- About Section -->
 ## 👋 About Me
 
 I'm a curious and motivated developer who loves building and learning.  
@@ -19,13 +30,8 @@ Exploring:
 
 <div style="display: flex; flex-wrap: wrap; gap: 25px; justify-content: center; align-items: center; padding: 10px 0;">
 
-  <img src="hacktoberfest.png" alt="Hacktoberfest Badge" width="150" />
-  <img src="TreeNation_hacktoberfest.png" alt="TreeNation Hacktoberfest" width="150" />
-
-  <br/><br/>
-
-  <img src="leetcode_50day.png" alt="leetcode_50day" width="150" />
-  <img src="leetcode_Dec.png" alt="leetcode_Dec" width="150" />
+  <img src="Assests/leetcode_50day.png" alt="leetcode_50day" width="150" />
+  <img src="Assests/leetcode_Dec.png" alt="leetcode_Dec" width="150" />
 
 </div>
 
