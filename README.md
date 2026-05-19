@@ -16,13 +16,15 @@
 I'm a curious and motivated developer who loves building and learning.  
 Currently studying at **MSU**, focused on real-world coding.
 
-Exploring:
+### 🔍 Exploring & Learning:
+- 💻 **Languages & Frameworks:** Java, JavaScript, MERN Stack, Python
+- 🚀 **Core Concepts:** Open Source, Data Structures & Algorithms (DSA)
+- ☁️ **Cloud & Databases:** Firebase, Supabase
+- 📦 **DevOps & Containers:** Docker, Kubernetes
 
-- Java, JavaScript, MERN Stack, Python
-- Open Source, DSA, Firebase, Supabase
-- Docker, Kubernetes
+<br/>
 
-🎯 [**My Portfolio Website**](https://portfolio-brown-ten-83.vercel.app/)
+> 🎯 Discover more on **[My Portfolio Website](https://portfolio-brown-ten-83.vercel.app/)**
 
 ---
 
